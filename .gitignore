@@ -1,0 +1,5 @@
+model.h5
+predict_result_*.csv
+/theSimpsons-train
+/theSimpsons-test
+/.ipynb_checkpoints
